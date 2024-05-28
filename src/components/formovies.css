@@ -12,14 +12,22 @@ th{
     text-align: center;
     background-color: #4CAF50;
     color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
 }
 
 td{
     padding: 20px;
     text-align: center; 
+    font: roboto bold;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(13, 17, 23);
 }
 
 h1{
     text-align: center;
     color: rgb(13, 17, 23);
+    border-top: 10px;
+    border-bottom: 10px;
 }

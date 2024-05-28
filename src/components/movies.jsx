@@ -17,6 +17,7 @@ class Movies extends Component {
         return(
             <React.Fragment>
                 <h1>Movies List</h1>
+                <p>There are {this.state.movies.length} movies in the database.</p>
                 <div className = "table-container">
                     <table border="0">
                         <thead>
