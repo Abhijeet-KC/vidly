@@ -1,0 +1,25 @@
+.table-container{
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+}
+.table-row{
+    height: 50px;
+    border: 2px solid rgba(116, 114, 114, 0.2);
+}
+th{
+    padding: 20px;
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+}
+
+td{
+    padding: 20px;
+    text-align: center; 
+}
+
+h1{
+    text-align: center;
+    color: rgb(13, 17, 23);
+}
