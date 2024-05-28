@@ -26,8 +26,22 @@ td{
 }
 
 h1{
+    text-emphasis: bold;
+    text-decoration: underline solid rgb(11, 28, 52);
+    padding: 20px;
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
     color: rgb(13, 17, 23);
     border-top: 10px;
     border-bottom: 10px;
+}
+
+p{
+    padding-left: 20px;
+    padding-bottom: 10px;
+    text-align: left;
+    color: rgb(13, 17, 23);
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
